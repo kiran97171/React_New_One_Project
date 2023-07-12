@@ -478,7 +478,7 @@ hr{
     margin-bottom: 100px;
 }
 .home-image-container{
-    width: 1570px;
+    width: 1408px;
     height: 2000px;
     display: flex;
     flex-direction: column;
@@ -493,7 +493,7 @@ hr{
     margin-bottom: 30px;
 }
 .latest-stories{
-    width: 1500px;
+    width: 1380px;
     font-size: 80px;
 }
 .hr-under2{
@@ -626,7 +626,7 @@ hr{
     display: none;
 }
 .down-like{
-    width: 1400px;
+    width: 1385px;
     font-size: 100px;
     margin-left: 100px;
     display: flex;
